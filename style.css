@@ -1,0 +1,31 @@
+.heading{
+    width:100%;
+    text-align: center;
+}
+
+#instruct_btn{
+    float:right;
+}
+
+
+#game_btn, #status{
+    font-size: 22px;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+h4{
+   
+    background-color: grey;
+    color:white;
+    line-height: 2;
+ }
+
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
